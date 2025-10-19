@@ -29,7 +29,7 @@ h2 {
     margin: 15px 0;
 }
 p {
-    font-family: 'Pacifico', cursive;  
+    font-family: 'Baloo 2', cursive;  
     font-size: 1.2rem;                 
     line-height: 1.5;                  
     color: #ff5e81;                    
@@ -88,5 +88,6 @@ button:nth-child(2) {
     max-width: 800px;
     text-align: center;
 }
+
 
 
