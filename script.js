@@ -48,7 +48,7 @@ const music = new Audio("nhacthinhphong.mp3");
         <h2 class='question'>Yayyyyy!!! 20/10 hạnh phúc nhó, cục cưng của anh boaaaa 🩷</h2>
         <p>💞Cảm ơn bbi đã ở bên cạnh anh suốt quãng thời gian qua nèee, vừa đáng iu vừa lì lợm mà còn ngoan răm xinh yêu nữa chớ💝😝</p>
         <p>💋Chúc bbi ngày càng xinh hơn, vui hơn, rạng rỡ hơn, nhiều may mắn hơn và luôn luôn hạnh phúc nhaaaa🫶😳</p>
-        <p>💐Chúc cho em iu thật nhìu may mắn nè, và nhớ là dù cho có thế nào thì anh vẫn sẽ luôn ở đây với em iu, nên là nếu có mệt quá thì về đây với anh nhóoo😎❤️</p>
+        <p>💐Chúc cho nhiều điều tốt đẹp sẽ đến với em, và nhớ là dù cho có thế nào thì anh vẫn sẽ luôn ở đây với em iu, nên là nếu có mệt quá thì về đây với anh nhóoo😎❤️</p>
         <img class='gif' alt='gif' src='https://media.giphy.com/media/fHGl1MDMNkO6fOaFDF/giphy.gif'/>
         <p>💌Anh yêu em nhiều lắm đóa, zị mà dám bấm No á hennnn😛🍑</p>
     </div>
@@ -104,6 +104,7 @@ function noButtonListener() {
     noButton.style.top = randomY + "px";
     count = count+1;
 }
+
 
 
 
